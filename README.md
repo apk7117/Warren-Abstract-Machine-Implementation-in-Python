@@ -8,4 +8,4 @@ Instructions:
   c)change the world none with the filepath of the prolog file that you want to run
     e.g. if the path of your Prolog file is for example C:\Users\YourProfile\Dekstop\test.pl,then write in the place of "None" this r"C:\Users\YourProfile\Dekstop\test.pl"
  
-  d)Now you are ready to test my WAM Implemention in Python!!!
+Now you are ready to test my WAM Implemention in Python!!!
